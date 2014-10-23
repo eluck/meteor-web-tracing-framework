@@ -1,0 +1,7 @@
+{
+  "name": "web-tracing-framework",
+  "description": "Web tracing framework wrapper for Meteor",
+  "author": "Evgeny Lukianchikov (https://github.com/eluck)",
+  "version": "0.0.1",
+  "git": ""
+}
