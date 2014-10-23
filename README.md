@@ -8,4 +8,4 @@ After adding this package to a Meteor project by running:
 meteor add eluck:web-tracing-framework
 ```
 
-you'll get `WTF` object in at your disposal both on a client and on a server.
+you'll get `WTF` object at your disposal both on a client and on a server.

@@ -1,5 +1,7 @@
 Package.describe({
-  summary: 'Web tracing framework wrapper for Meteor'
+  summary: 'Web tracing framework wrapper for Meteor',
+  version: "0.0.1",
+  git: 'git@github.com:eluck/meteor-web-tracing-framework.git'
 });
 
 Package.on_use(function (api) {
