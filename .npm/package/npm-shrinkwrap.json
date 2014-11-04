@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "tracing-framework": {
+      "version": "2014.8.18-1",
+      "dependencies": {
+        "falafel": {
+          "version": "0.1.4",
+          "dependencies": {
+            "esprima": {
+              "version": "1.0.0"
+            }
+          }
+        },
+        "mkdirp": {
+          "version": "0.3.5"
+        },
+        "optimist": {
+          "version": "0.3.5",
+          "dependencies": {
+            "wordwrap": {
+              "version": "0.0.2"
+            }
+          }
+        },
+        "ws": {
+          "version": "0.4.25",
+          "dependencies": {
+            "commander": {
+              "version": "0.6.1"
+            },
+            "tinycolor": {
+              "version": "0.0.1"
+            },
+            "options": {
+              "version": "0.0.6"
+            }
+          }
+        },
+        "string-hash": {
+          "version": "1.1.0"
+        },
+        "temporary": {
+          "version": "0.0.7",
+          "dependencies": {
+            "package": {
+              "version": "1.0.1"
+            }
+          }
+        },
+        "microtime": {
+          "version": "0.3.3",
+          "dependencies": {
+            "bindings": {
+              "version": "1.0.0"
+            }
+          }
+        }
+      }
+    }
+  }
+}
